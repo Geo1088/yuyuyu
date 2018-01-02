@@ -21,9 +21,6 @@ Chooses a random item from a comma-separated list of things.
 
 ## Music
 
-### `!help [command]`
-Prints a basic list of commands, or info on a command if one is specified.
-
 ### `!play <URL/query>`
 Plays audio from a specific URL or searches for a query on YouTube ([you can make it do others](https://github.com/Just-Some-Bots/MusicBot/wiki/FAQ#is-some-other-website-or-service-supported)) and queues the first result.
 
@@ -56,6 +53,3 @@ Resumes the current media
 
 ### `!volume [number]`
 Sets the volume of the bot for everyone. Should be a number between 1 and 100. Can be relative (e.g `+10` to add 10 to current volume). If no parameter is given, it will display the current volume.
-
-### `!save`
-Saves the current song to the autoplaylist.

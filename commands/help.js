@@ -7,7 +7,7 @@ module.exports = new Command(['help', 'h'], function (msg, args) {
 
   // Add other commands not included in this bot but used in others
   commandList.push('addrole', 'removerole')
-  commandList.push('play', 'otherMusicBotCommands')
+  commandList.push('play', 'search', 'stream', 'queue', 'np', 'skip', 'shuffle', 'clear', 'pause', 'resume', 'volume')
 
   commandList = commandList.map(c => '`' + prefix + c + '`').join(', ')
 
