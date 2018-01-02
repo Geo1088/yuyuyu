@@ -1,0 +1,13 @@
+{
+  "name": "itsuki",
+  "version": "1.0.0",
+  "description": "The bot for the /r/YuYuYu Discord server.",
+  "main": "index.js",
+  "repository": "https://github.com/Geo1088/yuyuyu.git",
+  "author": "Geo1088 <georgej1088@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0",
+    "yuuko": "^0.4.0"
+  }
+}
