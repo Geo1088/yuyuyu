@@ -1,6 +1,9 @@
 # Configuration
 config.json
 
+# Jekyll stuff
+docs/_site
+
 # Logs
 logs
 *.log
