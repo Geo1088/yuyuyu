@@ -1,0 +1,65 @@
+{
+	"roles": {
+		"yuuki": "Yuusha Punch",
+		"tougou": "Botamochi",
+		"fuu": "Girl Power",
+		"itsuki": "Inori no Uta",
+		"karin": "Nibosshi",
+
+		"sonoko": "KAGAWA LIFE",
+		"gin": "Guts!",
+		"wakaba": "Bakaba",
+		"hinata": "Has a Wakaba-chan Photo Album",
+		"chikage": "C-Shadow",
+
+		"tamako": "Tamazing!",
+		"anzu": "Bookworm",
+		"utano": "Farmer King",
+		"mito": "The Melancholy Miko",
+		"takashima": "Roundhouse Kick",
+
+		"sekka": "Glasses",
+		"natsume": "Muh Umi",
+		"sumi": "Wasshi~",
+		"majiyuusha": "MajiYuusha",
+
+		"mebuki": "Mebuuuuu",
+		"aya": "Ayaya~",
+		"suzume": "\"I'm Gonna Die!\"",
+		"yumiko": "The Honorable Miroku Household",
+		"shizuku": "SHIZUKU",
+		"aki-sensei": "Aki-Sensei",
+
+		"rewatch": "Rewatch"
+	},
+	"lockRoles": {
+		"yuuki": "Yuuki Yuuna",
+		"tougou": "Tougou Mimori",
+		"fuu": "Inubouzaki Fuu",
+		"itsuki": "Inubouzaki Itsuki",
+		"karin": "Miyoshi Karin",
+
+		"sonoko": "Nogi Sonoko",
+		"gin": "Minowa Gin",
+		"wakaba": "Nogi Wakaba",
+		"hinata": "Uesato Hinata",
+		"chikage": "Koori Chikage",
+
+		"tamako": "Doi Tamako",
+		"anzu": "Iyojima Anzu",
+		"utano": "Shiratori Utano",
+		"mito": "Fujimori Mito",
+		"takashima": "Takashima Yuuna",
+
+		"sekka": "Akihara Sekka",
+		"natsume": "Kohagura Natsume",
+		"sumi": "Washio Sumi",
+
+		"mebuki": "Kusunoki Mebuki",
+		"aya": "Kokudo Aya",
+		"suzume": "Kagajou Suzume",
+		"yumiko": "Miroku Yumiko",
+		"shizuku": "Yamabushi Shizuku",
+		"aki-sensei": "Teacher Best"
+	}
+}

@@ -6,6 +6,9 @@
   "repository": "https://github.com/Geo1088/yuyuyu.git",
   "author": "Geo1088 <georgej1088@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "another-logger": "^2.0.0",
     "common-tags": "^1.8.0",
