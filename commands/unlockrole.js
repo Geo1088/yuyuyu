@@ -5,12 +5,7 @@ const {stripIndents} = require('common-tags');
 const {Command} = require('yuuko');
 const {lockRoles} = require('../util/roles.json');
 
-function codeList (arr) {
-	return arr.map(val => `\`${val}\``).join(' ');
-}
-
 const lockRolesNames = Object.keys(lockRoles).map(k => lockRoles[k]);
-const roleNames = codeList(Object.keys(lockRoles));
 
 module.exports = new Command('unlockrole', async msg => {
 	if (!msg.channel.guild) return;
