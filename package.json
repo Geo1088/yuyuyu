@@ -7,7 +7,13 @@
   "author": "Geo1088 <georgej1088@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "another-logger": "^2.0.0",
+    "common-tags": "^1.8.0",
     "request": "^2.83.0",
-    "yuuko": "^0.4.0"
+    "yuuko": "^1.0.0-pre1"
+  },
+  "devDependencies": {
+    "@geo1088/eslint-config": "^3.0.10",
+    "eslint": "^5.15.3"
   }
 }

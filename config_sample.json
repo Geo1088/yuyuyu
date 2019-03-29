@@ -1,4 +1,4 @@
 {
   "token": "Discord bot token",
-  "defaultPrefix": "!"
+  "prefix": "!"
 }

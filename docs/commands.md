@@ -7,17 +7,23 @@ These are the commands used by Itsuki. There are other bots on the server that u
 
 ## Roles
 
-### `!addrole <role>`
-### `!removerole <role>`
-Add or remove a role from yourself. The following roles can be added to yourself:
+### `!addrole <roles...>`
+### `!removerole <roles...>`
+Add or remove a character or other role for yourself. To see which roles are available, simply do `!addrole` without any argument. These commands can take a space-separated list of names to add or remove them all at once.
+
+### `!lockrole <character name>`
+### `!unlockrole`
+Lock in your name color to a certain character's role. To see which characters are available, do `!lockrole` with no argument. DO `!unlockrole` to remove your locked character (your name color may still be changed by lower roles you have).
 
 ## Misc. Text
 
 ### `!ping`
 Pings the bot.
 
-### `!choose <option, option>`
+### `!choose a, b, more options...`
 Chooses a random item from a comma-separated list of things.
+
+<!--
 
 ## Music
 
@@ -53,3 +59,5 @@ Resumes the current media
 
 ### `!volume [number]`
 Sets the volume of the bot for everyone. Should be a number between 1 and 100. Can be relative (e.g `+10` to add 10 to current volume). If no parameter is given, it will display the current volume.
+
+-->

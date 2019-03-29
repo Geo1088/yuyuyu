@@ -1,5 +1,7 @@
-const {Command} = require('yuuko')
+'use strict';
 
-module.exports = new Command(['say', 'quote'], function (msg, args) {
-  msg.channel.createMessage(`"${args.join(' ')}" \u2014${msg.member && msg.member.nick || msg.author.username}`)
-})
+const {Command} = require('yuuko');
+
+module.exports = new Command(['say', 'quote'], (msg, args) => {
+	msg.channel.createMessage(`"${args.join(' ')}" \u2014${msg.member.nick || msg.author.username}`);
+});
